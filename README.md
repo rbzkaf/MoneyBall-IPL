@@ -8,5 +8,4 @@ How to run:
 	>Pandas
 	>MatplotLib
 	>Numpy
->The install can be done in a python terminal using 'pip install'
->Run the specified programs by opening the projects in PyCharm.
+
